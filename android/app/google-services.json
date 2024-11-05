@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225442548024",
+    "project_id": "ai-resume-reach",
+    "storage_bucket": "ai-resume-reach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225442548024:android:b28c0be5261499e5f299cd",
+        "android_client_info": {
+          "package_name": "com.example.ai_resume_reach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD95Ce4Y7PwTH8B_fMisr69aSDrs7-658"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
